@@ -4,7 +4,7 @@
 - [wirespider](https://github.com/SFTtech/wirespider) - mesh vpn with Wireguard 🕸
 - [stiefelsystem](https://github.com/SFTtech/stiefelsystem) - boot your operating system on a different hardware device via network 👢
 - [elaiza](https://github.com/SFTtech/emacs-elaiza) - AI interface (and doctor) for Emacs 🤖
-- [starlit-theme](https://github.com/SFTtech/emacs-starlit) for Emacs 🌃
+- [starlit-theme](https://github.com/SFTtech/starlit-emacs) for Emacs 🌃
 - [kevin](https://github.com/SFTtech/kevin) - continuous integration service 🙈
 - [xautocfg](https://github.com/SFTtech/xautocfg) - automatic adjustment of X11 settings, like key repeat rates
 - [nyan](https://github.com/SFTtech/nyan) - typesafe hierarchical key-value database with inheritance and dynamic patching 😺
