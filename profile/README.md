@@ -1,0 +1,15 @@
+- [abrechnung](/SFTtech/abrechnung) - payment tracking and money splitting for groups 💸
+- [openage](/SFTtech/openage) - free open source clone of the Age of Empire II engine 🚀
+- [stustapay](/StuStaPay/stustapay) - nfc tag based large-scale event payment system 🎫
+- [wirespider](/SFTtech/wirespider) - mesh vpn with Wireguard 🕸
+- [stiefelsystem](/SFTtech/stiefelsystem) - boot your operating system on a different hardware device via network 👢
+- [ELAIZA](/SFTtech/emacs-elaiza) - AI interface for Emacs 🤖
+- [Starlit Theme](/SFTtech/emacs-starlit) for Emacs 🌃
+- [kevin](/SFTtech/kevin) - continuous integration service 🙈
+- [xautocfg](/SFTtech/xautocfg) - automatic adjustment of X11 settings, like key repeat rates
+- [nyan](/SFTtech/nyan) - typesafe hierarchical key-value database with inheritance and dynamic patching 😺
+- [sftdyn](/SFTtech/sftdyn) - self-hosted dyndns/dynamic DNS server and updater for bind
+- [ceph-mount](/SFTtech/ceph-mount) - pure-Python CephFS mount helper
+- [videoscreen](/SFTtech/videoscreen) - play netcat-submitted media links on a video wall 🎥
+- [gentoo overlay](/SFTtech/gentoo-overlay) - our packages for Gentoo Linux
+- [sticker](/SFTtech/sticker) - random stickers
