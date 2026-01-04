@@ -1,6 +1,7 @@
 - [abrechnung](https://github.com/SFTtech/abrechnung) - payment tracking and money splitting for groups 💸
 - [openage](https://github.com/SFTtech/openage) - free open source clone of the Age of Empire II engine 🚀
 - [stustapay](https://github.com/StuStaPay/stustapay) - nfc tag based large-scale event payment system 🎫
+- [debmagic](https://github.com/SFTtech/debmagic) - futuristic tooling for creating and building Debian/Ubuntu packages 📦
 - [wirespider](https://github.com/SFTtech/wirespider) - mesh vpn with Wireguard 🕸
 - [cyberbot](https://github.com/SFTtech/cyberbot) - matrix chatbot framework with one battery included 💬
 - [stiefelsystem](https://github.com/SFTtech/stiefelsystem) - boot your operating system on a different hardware device via network 👢
