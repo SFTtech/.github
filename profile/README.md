@@ -11,6 +11,8 @@
 - [xautocfg](https://github.com/SFTtech/xautocfg) - automatic adjustment of X11 settings, like key repeat rates
 - [nyan](https://github.com/SFTtech/nyan) - typesafe hierarchical key-value database with inheritance and dynamic patching 😺
 - [sftdyn](https://github.com/SFTtech/sftdyn) - self-hosted dyndns/dynamic DNS server and updater for bind
+- [ceph-balancer](https://github.com/TheJJ/ceph-balancer) - increase free storage in Ceph clusters by reordering data 🗄️
+- [ceph-cheatsheet](https://github.com/TheJJ/ceph-cheatsheet) - a cheatsheet for Ceph
 - [ceph-mount](https://github.com/SFTtech/ceph-mount) - pure-Python CephFS mount helper
 - [videoscreen](https://github.com/SFTtech/videoscreen) - play netcat-submitted media links on a video wall 🎥
 - [gentoo overlay](https://github.com/SFTtech/gentoo-overlay) - our packages for Gentoo Linux
